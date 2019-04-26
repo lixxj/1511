@@ -1,0 +1,53 @@
+The Rules of Intensity
+40 cards, numbered 10 to 49.
+
+30 to 39, the calves.
+47, the buffalo.
+
+When it is your turn to play(total 10 times), your program will be asked which card it wishes to play.
+
+Playing A Card
+If the first integer on standard input is 2, your program is being asked to play a card. Your program will be run ten times in this way during a game.
+
+the cards that have been players so far this round will be 0..3 integers in the range 10..49 They will be in the order they were played - the first will be the first card played in this round.
+
+Last will be all the cards played in previous rounds. This will be 0..36 integers in the range 10..49. They will be in the order they were played - the first will be the first card played in the game.
+
+Your program should then indicates the card it wishes to play by printing a single line containing an integer.
+
+For example if your program is given:
+
+2
+9 2 0
+11 15 18 23 33 34 47 48 49
+24 26
+16 19 13 12
+It has 9 cards in its hand: [11, 15, 18, 23, 33, 34, 47, 48, 49]
+Two cards played have been played this round: [24, 26].
+
+There has been 1 previous round in which the cards played were: [16, 19, 13, 12]
+
+And you are sitting at table position 0.
+
+Your program should print 23 - because that is the only card that is legal to play in this situation.
+
+
+The Intensity Referee
+It takes as arguments, the names of C programs which play the game.
+If there are less than 4 programs, the referee provides players (named Lulu, Morgan, Amy and Rat) who make random legal plays.
+Run it like this:
+1511 intensity_referee intensity.c
+
+
+Start by adding code to create a player which makes only a legal play.
+
+Next think of simple strategies to choose a good (and legal!) card to play and implement them. You will need to create separate functions to make your code readable.
+
+You may call functions from the standard C libraries (e.g. the functions from stdio.h, stdlib.h, string.h) and the maths library (math.h).
+
+Your program must take at most 30 seconds to return a play or discards on a CSE lab computer when compiled with dcc --valgrind.
+
+There is no way for your program to pass information from one play to the next.
+
+
+

@@ -1,0 +1,100 @@
+18/01/18  9 Pygmy right whale
+01/09/17 21 Southern right whale
+16/02/18  4 Striped dolphin
+02/07/17  4 Common dolphin
+19/02/18  4 Blue whale
+21/02/18 38 Dwarf sperm whale
+14/06/17 29 Southern right whale
+20/06/17  3 Spinner dolphin
+22/07/17 34 Indo-Pacific humpbacked dolphin
+20/03/18  7 Long-finned pilot whale
+11/03/18 19 Short-finned pilot whale
+24/09/17  5 Southern right whale
+11/02/18  6 Dwarf minke whale
+22/03/18 29 Common dolphin
+02/04/18 23 Spinner dolphin
+26/04/18 19 Orca
+24/12/17 14 Pygmy right whale
+18/10/17  6 Spinner dolphin
+21/08/17  3 Striped dolphin
+19/12/17 37 Dwarf minke whale
+02/09/17 25 Dwarf minke whale
+08/10/17 32 Southern right whale
+29/11/17 21 Pygmy sperm whale
+04/04/18 29 Pygmy sperm whale
+19/04/18  6 Striped dolphin
+04/06/17  4 Striped dolphin
+02/04/18  5 Long-finned pilot whale
+09/06/17 21 Humpback whale
+01/04/18  3 Dwarf minke whale
+25/02/18  4 Dwarf sperm whale
+09/12/17 35 Dwarf minke whale
+27/06/17 25 Fin whale
+22/02/18 36 Coastal bottlenose dolphin
+03/09/17 26 Dwarf sperm whale
+23/02/18  1 Striped dolphin
+23/06/17  3 Pygmy sperm whale
+08/12/17 23 Blue whale
+21/01/18 41 Indo-Pacific humpbacked dolphin
+18/06/17 41 Pygmy sperm whale
+22/12/17 18 Pygmy right whale
+06/05/17 39 Southern right whale
+23/10/17  9 Indo-Pacific humpbacked dolphin
+06/12/17 29 Orca
+31/07/17 19 Long-finned pilot whale
+13/03/18 40 Humpback whale
+08/11/17 26 Dwarf minke whale
+11/06/17  7 Dwarf sperm whale
+20/09/17 40 Spinner dolphin
+09/08/17 27 Fin whale
+01/04/18 12 Humpback whale
+30/01/18 38 Fin whale
+24/02/18  8 Dwarf sperm whale
+29/06/17 23 Pygmy right whale
+31/03/18 11 Common dolphin
+22/02/18 35 Indo-Pacific humpbacked dolphin
+30/07/17  3 Indo-Pacific humpbacked dolphin
+09/03/18  9 Sei whale
+11/08/17 39 Long-finned pilot whale
+26/01/18 17 Blue whale
+19/07/17 39 Spinner dolphin
+26/07/17 19 Striped dolphin
+06/12/17  8 Common dolphin
+06/09/17 31 Common dolphin
+03/03/18  8 Pygmy right whale
+14/08/17 24 Pygmy right whale
+06/08/17  3 Spinner dolphin
+09/06/17  6 Spinner dolphin
+06/01/18  8 Humpback whale
+23/02/18  7 Pygmy right whale
+12/08/17 25 Blue whale
+22/04/18  8 Pygmy sperm whale
+15/03/18 31 Sei whale
+13/10/17 25 Sei whale
+24/06/17 12 Bryde's whale
+06/10/17 39 Coastal bottlenose dolphin
+24/09/17 33 Fin whale
+11/03/18 32 Short-finned pilot whale
+20/07/17  4 Pygmy right whale
+04/05/17 33 Indo-Pacific humpbacked dolphin
+18/06/17  8 Common dolphin
+23/01/18 13 Fin whale
+10/03/18 11 Southern right whale
+13/02/18  1 Dwarf minke whale
+21/01/18 24 Fin whale
+29/11/17  8 Sei whale
+29/06/17 37 Blue whale
+05/09/17 34 Dwarf sperm whale
+13/08/17 32 Pygmy right whale
+02/03/18 31 Sei whale
+19/02/18 31 Blue whale
+25/03/18 35 Spinner dolphin
+14/11/17  9 Pygmy right whale
+17/03/18 39 Sei whale
+15/08/17 37 Indo-Pacific humpbacked dolphin
+25/10/17 39 Pygmy sperm whale
+23/06/17 37 Orca
+09/03/18 24 Striped dolphin
+13/11/17 33 Southern right whale
+09/11/17 39 Spinner dolphin
+29/07/17 22 Indo-Pacific humpbacked dolphin

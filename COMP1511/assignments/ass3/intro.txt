@@ -1,0 +1,33 @@
+Each location MAY buy OR sell at most one type of fruit. 
+
+A bot will may use one or more Move actions to go to a location which buys this fruit. A bot may choose to buy more fruit of the same type.
+
+Fruit Bot worlds will always contain one or more locations which will buy any fruit, "Anything".
+
+Fruit Bot worlds will always contain one or more locations which sell "Electricity".
+
+If there is 7 kg of fruit for sale at a location, and 3 bots simultaneously request to buy, respectively 7kg, 18kg and 2kg, each bot would be sold 2 kg and 1 kg would be left unsold.
+If instead the 3 bots simultaneously requested to buy, respectively 18kg, 7kg and 1kg, the bots would sold 3 kg, 3 kg and 1kg respectively.
+
+The command 1511 fruit_bot_referee fruit_bot.c will automatically test your program on a random world.
+
+cp -n /web/cs1511/18s1/activities/fruit_bot/fruit_bot.c .
+dcc fruit_bot.c fruit_bot_input.c -o fruit_bot
+1511 fruit_bot_referee fruit_bot.c|more
+
+An interactive player is available allowing you to control a fruit bot directly:
+dcc fruit_bot.c fruit_bot_input.c -o fruit_bot
+1511 fruit_bot_referee --interactive_player
+
+A larger world is available: 1511 fruit_bot_referee -w medium fruit_bot.c|more
+
+Other worlds will be added to the referee and you can create your own world in a file (see lab exercises for examples):
+1511 fruit_bot_referee -f my_world.txt fruit_bot.c|more
+
+You may call functions from stdio.h, stdlib.h, string.h and math.h
+
+give cs1511 ass3 fruit_bot.c
+
+Unit tests will be hard to write, include those you can and make sure you describe your testing strategy above the run_unit_tests function.
+
+due Sunday 03 June 23:59:59

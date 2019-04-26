@@ -1,0 +1,136 @@
+Admin ..
+* Don't Panic! it's always confusing at first
+* non-CSE-majors can swap to COMP1911 (until Wk4)
+* changing tutes not possible (tutes are full)
+* swapping tutes (with someone else) is
+
+
+
+Typical program structure ...
+* get input values
+* process inputs to compute results
+* display results
+
+
+
+C program ...
+* set of functions
+* possibly in multiple *.c files
+* #include'ing various "libraries"
+* one file must contain main()
+
+
+
+Numbers
+* int = subset of Integers (32 bits)
+* double = subset of Reals (64 bits)
+
+
+Bases  (for int values)
+* decimal      (base 10   0..7,8,9)
+* octal        (base 8    0..5,6,7)
+* hexadecimal  (base 16   0..9,A,B,C,D,E,F)
+* binary       (base 2    0,1)
+
+
+Examples
+Dec   Oct   Hex   Binary
+----  ----  ----  --------
+   0    00   0x0  00000000
+  10   012   0xA  00001010
+  52   063  0x3F  00111111
+
+
+
+Representaion & Interpretation
+
+Representation
+- how to "implement" a value in bits
+- e.g. number 42  =  00101010
+
+Interpretation
+- how to view bits as a value
+- e.g. 01101011  =  107  (as an int)
+       01101011  =  'k'  (as a char)
+
+
+
+Formatted Input/Output
+
+%d = decimal integer  (32-bit)
+%ld = bigger decimal integer  (64-bit?)
+
+%f = real number  (32-bit)
+%lf = bigger real number  (64-bit?)
+%g = bigger real number  (64-bit!)
+
+for output
+
+%d = display with no spaces around
+%10d = display right-justified, space padded
+%-10d = display left-justified, space padded
+
+%0.1g =  1 digit after decimal point
+%10.1g = as above, space padded 
+%10.3g = 3 digits after decimal point, space padded 
+
+
+
+
+
+
+
+Admin
+* today: tests, choice and repetition
+* non-CSE-majors can swap to COMP1911 
+  - CSE majors = BINFAH,COMPA1,COMPBH,SENGAH
+* fill out the Home Computing Poll
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+  
+ Tests in C
+ 
+ Relational operators:  <  >  ==  !=  <=  >=
+ 
+ Logic operations:  &&  ||  !
+ 
+ Syntax:  (Expr Opr Expr)
+ where     Expr is Constant|Variable
+ 
+ E.g.  (x > 0)   (y == -1)   (x < y)  (y != 0)
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ 
+ Making Choices
+ 
+ if (Expr) { s1;s2;s3; } else { s4;s5; }
+ 
+ Expr is evaluated ...
+ case1: Result is zero, do { s1;s2;s3; }
+ case2: Result is non-zero, do { s4;s5; }
+  
+
+

@@ -1,0 +1,32 @@
+#include <stdio.h>
+
+int main(void) {
+    int n;
+    int row = 1, column;
+
+    printf("How many boxes: ");
+    scanf("%d", &n);
+    int m = 4 * n - 1;
+
+     while (row <= m) {
+        int column = 1;
+        while (column <= m) {
+            if (column % 2 != 0 && row % 2 != 0) {
+                printf("#");
+            }
+            
+            
+       else {
+                printf(" ");
+                }
+                
+            column = column + 1;
+        }
+        printf("\n");
+        row = row + 1;
+     }
+  
+    return 0;
+}
+
+

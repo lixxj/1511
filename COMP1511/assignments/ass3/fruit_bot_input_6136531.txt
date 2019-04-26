@@ -1,0 +1,13 @@
+battery_capacity=31
+maximum_fruit_kg=17
+maximum_move=3
+CSE: other
+Kensington Apple Farm: will sell 168 kg of Apples for $17/kg
+Campus Compost Heap: will buy 925 kg of Anything for $1/kg
+Campus Charging: will sell 25 kJ of Electricity for $4/kJ
+Mathews A: will buy 59 kg of Apples for $19/kg
+CLB 7: will buy 47 kg of Apples for $27/kg
+Quadrangle: other
+"organ15" is at "CSE" with $147, battery level: 31
+*** Turn 1 of 34 ***
+*** You are "organ15"
